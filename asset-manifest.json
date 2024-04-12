@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/amzn/static/css/main.b6a34106.css",
+    "main.css": "/amzn/static/css/main.f3f72c6c.css",
     "main.js": "/amzn/static/js/main.834712f5.js",
     "static/media/AmazonEmber_Rg.ttf": "/amzn/static/media/AmazonEmber_Rg.49d0b49cda15e913fdf2.ttf",
     "static/media/AmazonEmber_Bd.ttf": "/amzn/static/media/AmazonEmber_Bd.4c4b1f27a546fbfe585f.ttf",
     "static/media/free-icon-refund-3745556.png": "/amzn/static/media/free-icon-refund-3745556.b523407b07bfb133da8a.png",
     "index.html": "/amzn/index.html",
-    "main.b6a34106.css.map": "/amzn/static/css/main.b6a34106.css.map",
+    "main.f3f72c6c.css.map": "/amzn/static/css/main.f3f72c6c.css.map",
     "main.834712f5.js.map": "/amzn/static/js/main.834712f5.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6a34106.css",
+    "static/css/main.f3f72c6c.css",
     "static/js/main.834712f5.js"
   ]
 }
